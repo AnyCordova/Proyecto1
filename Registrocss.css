@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.lista{
+width: 16%; 
+height: 50%; 
+background-color:#000;
+float: center;
+}
+
+h1{
+		color:#000;
+		text-align: center;
+	}
+
+	p{
+		font-family: arial;
+		margin: 20px;
+		color:#FFF;
+		text-align:center;
+	}
